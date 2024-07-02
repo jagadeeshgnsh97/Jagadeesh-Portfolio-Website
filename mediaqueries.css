@@ -50,12 +50,9 @@
     margin-top: -0.5rem;
   }
   #profile {
-    height: 83vh;
-    margin-bottom: -4rem;
+    height: 68vh;
   }
-  #projects {
-    margin-top: -0.5rem;
-  }
+
   article {
     font-size: 1rem;
   }
