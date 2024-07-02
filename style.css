@@ -259,6 +259,7 @@ section {
 
 #about {
   position: relative;
+  margin-top: -3.5rem;
 }
 
 .about-containers {
@@ -312,7 +313,7 @@ section {
 
 #experience {
   position: relative;
-  margin-top: 5rem;
+  margin-top: 2rem;
 }
 
 .experience-sub-title {
@@ -352,6 +353,7 @@ article .icon {
 
 #projects {
   position: relative;
+  margin-top: -2.6rem;
 }
 
 .color-container {
