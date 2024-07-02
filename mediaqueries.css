@@ -47,10 +47,18 @@
   #contact,
   footer {
     height: 40vh;
-    margin-top: -0.5rem;
+    margin-top: 1rem;
   }
   #profile {
-    height: 68vh;
+    height: 83vh;
+    margin-bottom: 0;
+  }
+  #about {
+    margin-top: -3.5rem;
+    margin-bottom: 2.5rem;
+  }
+  #experience {
+    margin-bottom: 1rem;
   }
 
   article {
